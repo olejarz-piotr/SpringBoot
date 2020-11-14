@@ -1,10 +1,10 @@
-package pl.olejarz.firstapp;
+package pl.olejarz.SpringDataTests;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FirstappApplicationTests {
+class SpringDataTestsApplicationTests {
 
 	@Test
 	void contextLoads() {
